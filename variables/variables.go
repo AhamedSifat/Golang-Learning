@@ -24,6 +24,6 @@ func main() {
 	fmt.Println(isActive)
 
 	// This is a comment
-	compare := 3.14 < 5
+	compare := 3.14 < 4
 	fmt.Println(compare)
 }
